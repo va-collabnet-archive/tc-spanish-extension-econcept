@@ -18,8 +18,8 @@
 		<sourceData.version>20150430</sourceData.version>
 		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.30-SNAPSHOT</org.ihtsdo.wb-toolkit.version>
 		<data.relativeInputDir>/SnomedCT_SpanishRelease-es_INT_20150430/RF2Release/Full/</data.relativeInputDir>
-		<import.path.uuid>7e3f727b-c338-5088-9cbb-8704df837d9</import.path.uuid> <!-- "Spanish Extension Path" -->  
-		<import.module.uuid>bf291637-8f18-38a3-8cc9-fc28927d68ad</import.module.uuid> <!-- US National Library of Medicine maintained module (core metadata concept) -->
+		<import.path.uuid>4d18f7e9-bcc3-3059-888f-5179d41f1f8e</import.path.uuid> <!-- "spanish language path" -->  
+		<import.module.uuid>6f17f626-acea-30c7-915a-ed75a60fe17c</import.module.uuid> <!-- SNOMED CT Spanish edition module (core metadata concept) -->
 		<core.path.uuid>8c230474-9f11-30ce-9cad-185a96fd03a2</core.path.uuid> <!-- SNOMED Core Path -->
 		<core.module.uuid>1b4f1ba5-b725-390f-8c3b-33ec7096bdca</core.module.uuid> <!-- SNOMED Core Module -->
 	</properties>
