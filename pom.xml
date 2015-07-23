@@ -9,14 +9,14 @@
 	<groupId>gov.va.oia.terminology.converters</groupId>
 	<artifactId>spanish-extension-econcept</artifactId>
 	<!-- this should be set to ${sourceData.version}-loader-[version] but that doesn't appease the maven gods that know best.... -->
-	<version>20150430-loader-1.2</version>
+	<version>20150430-loader-1.3-SNAPSHOT</version>
 	
 	<packaging>pom</packaging>
 	<name>va-extension-econcept</name>
 
 	<properties>
 		<sourceData.version>20150430</sourceData.version>
-		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.30</org.ihtsdo.wb-toolkit.version>
+		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.31-SNAPSHOT</org.ihtsdo.wb-toolkit.version>
 		<data.relativeInputDir>/SnomedCT_SpanishRelease-es_INT_20150430/RF2Release/Full/</data.relativeInputDir>
 		<import.path.uuid>4d18f7e9-bcc3-3059-888f-5179d41f1f8e</import.path.uuid> <!-- "spanish language path" -->  
 		<import.module.uuid>6f17f626-acea-30c7-915a-ed75a60fe17c</import.module.uuid> <!-- SNOMED CT Spanish edition module (core metadata concept) -->
